@@ -24,4 +24,9 @@
         tools:layout_editor_absoluteX="50dp"
         tools:layout_editor_absoluteY="74dp" />
 
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="멘탈 터지겠다!"/>
+
 </LinearLayout>
